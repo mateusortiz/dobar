@@ -1,6 +1,6 @@
 const menubar = require('menubar')
 const ipc = require('electron').ipcMain
-const globalShortcut = require('global-shortcut')
+const globalShortcut = require('electron').globalShortcut
 const Menu = require('electron').Menu
 
 const mb = menubar({ dir: __dirname + '/app', width: 440, height: 230, icon: __dirname + '/app/Icon-Template.png', preloadWindow: true, 'window-position': 'topRight' })
