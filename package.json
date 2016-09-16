@@ -1,0 +1,19 @@
+{
+  "name": "dobar",
+  "version": "0.0.1",
+  "description": "To do app for organize your tasks easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusortiz/dobar.git"
+  },
+  "author": "Mateus Ortiz <mteusortiz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateusortiz/dobar/issues"
+  },
+  "homepage": "https://github.com/mateusortiz/dobar#readme"
+}
