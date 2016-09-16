@@ -3,6 +3,12 @@
   "version": "0.0.1",
   "description": "To do app for organize your tasks easily",
   "main": "index.js",
+  "dependencies": {
+    "menubar": "^5.1.0"
+  },
+  "devDependencies": {
+    "electron": "^1.4.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
